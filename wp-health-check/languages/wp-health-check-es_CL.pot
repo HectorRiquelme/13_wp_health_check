@@ -1,0 +1,121 @@
+# WP Health Check - Plantilla de traducciones
+# Copyright (C) 2024 Hector Riquelme
+# This file is distributed under the same license as the WP Health Check plugin.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Health Check 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/HectorRiquelme/wp-health-check\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Hector Riquelme\n"
+"Language-Team: Español (Chile)\n"
+"Language: es_CL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-health-check.php
+msgid "WP Health Check"
+msgstr "WP Health Check"
+
+#: includes/class-health-check-admin.php
+msgid "Health Check"
+msgstr "Health Check"
+
+#: includes/class-health-check-admin.php
+msgid "Ejecutando diagnóstico..."
+msgstr "Ejecutando diagnóstico..."
+
+#: includes/class-health-check-admin.php
+msgid "Diagnóstico completado."
+msgstr "Diagnóstico completado."
+
+#: includes/class-health-check-admin.php
+msgid "Error al ejecutar el diagnóstico."
+msgstr "Error al ejecutar el diagnóstico."
+
+#: includes/class-health-check-admin.php
+msgid "Aplicando corrección..."
+msgstr "Aplicando corrección..."
+
+#: includes/class-health-check-admin.php
+msgid "Corrección aplicada."
+msgstr "Corrección aplicada."
+
+#: includes/class-health-check-admin.php
+msgid "Error al aplicar la corrección."
+msgstr "Error al aplicar la corrección."
+
+#: includes/class-health-check-admin.php
+msgid "Exportando reporte..."
+msgstr "Exportando reporte..."
+
+#: includes/class-health-check-admin.php
+msgid "No hay resultados. Ejecuta un diagnóstico primero."
+msgstr "No hay resultados. Ejecuta un diagnóstico primero."
+
+#: admin/views/admin-page.php
+msgid "Diagnóstico automático de problemas comunes en tu sitio WordPress."
+msgstr "Diagnóstico automático de problemas comunes en tu sitio WordPress."
+
+#: admin/views/admin-page.php
+msgid "Ejecutar diagnóstico"
+msgstr "Ejecutar diagnóstico"
+
+#: admin/views/admin-page.php
+msgid "Exportar JSON"
+msgstr "Exportar JSON"
+
+#: admin/views/admin-page.php
+msgid "Ver historial"
+msgstr "Ver historial"
+
+#: admin/views/admin-page.php
+msgid "Resultados del diagnóstico"
+msgstr "Resultados del diagnóstico"
+
+#: admin/views/admin-page.php
+msgid "Historial de diagnósticos"
+msgstr "Historial de diagnósticos"
+
+#: includes/checks/class-check-jquery.php
+msgid "No se detectaron conflictos de jQuery."
+msgstr "No se detectaron conflictos de jQuery."
+
+#: includes/checks/class-check-jquery.php
+msgid "Se detectaron posibles duplicados de jQuery."
+msgstr "Se detectaron posibles duplicados de jQuery."
+
+#: includes/checks/class-check-jquery.php
+msgid "Múltiples versiones de jQuery detectadas. Esto puede causar conflictos."
+msgstr "Múltiples versiones de jQuery detectadas. Esto puede causar conflictos."
+
+#: includes/checks/class-check-jquery.php
+msgid "Conflictos de jQuery"
+msgstr "Conflictos de jQuery"
+
+#: includes/checks/class-check-scripts.php
+msgid "Scripts bloqueantes"
+msgstr "Scripts bloqueantes"
+
+#: includes/checks/class-check-images.php
+msgid "Imágenes del Media Library"
+msgstr "Imágenes del Media Library"
+
+#: includes/checks/class-check-images.php
+msgid "Imagen sin descripción"
+msgstr "Imagen sin descripción"
+
+#: includes/checks/class-check-responsive.php
+msgid "Compatibilidad responsive"
+msgstr "Compatibilidad responsive"
+
+#: includes/checks/class-check-security.php
+msgid "Seguridad"
+msgstr "Seguridad"
+
+#: includes/checks/class-check-updates.php
+msgid "Actualizaciones"
+msgstr "Actualizaciones"
